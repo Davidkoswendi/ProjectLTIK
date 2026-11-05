@@ -1,1 +1,1 @@
-print ("Hallo Word berubah")
+print ("Diubah oleh dimas")
